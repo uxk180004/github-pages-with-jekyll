@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my blog this is our first vlog
 
 I'm glad you are here. I plan to talk about ...
