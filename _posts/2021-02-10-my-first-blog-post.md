@@ -1,1 +1,4 @@
-## My first blog
+---
+title: "my-first-blog"
+date: 2021-02-10
+---
